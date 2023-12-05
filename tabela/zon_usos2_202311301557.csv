@@ -1,0 +1,110 @@
+"tp_uso";"nm_uso";"APL-E";"APL-P";"ARR";"ARP";"ARM";"ATR";"AMC";"AMS";"ZEIS";"ARC";"ATL";"APT";"AUE"
+Residenciais e habitacionais transitórios;Residências Unifamiliares;A;A;A;A;A;A;A;A;A;A;P;P;A
+Residenciais e habitacionais transitórios;Condomínio de Lotes;A;P;P;P;P;P;P;P;P;P;P;P;P
+Residenciais e habitacionais transitórios;Condomínio Residencial Multifamiliar Vertical;P;P;P;A-9;A;A;A;A;A;P;P;A;P
+Residenciais e habitacionais transitórios;Condomínio Residencial Multifamiliar Horizontal;A;P;P;A;A;A;A;A;A;P;P;A;P
+Residenciais e habitacionais transitórios;Hotéis Apart-hotel Hotel Fazenda e Pousadas;A;A;A;A-m;A;A;A;A;P;A-5-p;A-m;A;A
+Residenciais e habitacionais transitórios;Albergues Pensões e Alojamentos;A;A;A;A-m;A;A;A;P;A;P;A-m;P;A
+Residenciais e habitacionais transitórios;Campings;A;A;A;P;P;A;P;P;P;P;A-m;P;A
+Residenciais e habitacionais transitórios;Móteis;A;A;P;P;P;P;A;A;P;P;P;P;A
+Residenciais e habitacionais transitórios;Conventos e Seminários;A;A;A;A;A;A;A;P;P;A-p;P;P;A
+Recreativos e esportivos;Circos parques temáticos e zoológicos;A-5;A;A;P;A;A;A;A;A-5;P;P;A;A
+Recreativos e esportivos;Locais para recreação e festas infantis;A;A;A-pp;A-pp;A;A;A;A;A-5;A-pp;P;A;A
+Recreativos e esportivos;Estádios arenas ginásios cobertos e similares;P;P;A-p;A-p;A;A;A;A;A-5;P;P;A-5;P
+Recreativos e esportivos;Academias de ginástica e esportes quadras e piscinas cobertas;A-m;A-m;A-p;A-p;A;A;A;A;A-5-p;A-p;P;A;A-m
+Recreativos e esportivos;Quadras e piscinas descobertas de esportes;P;A;A-g;A-g;A;A;A;A;A-5;P;P;A;A
+Recreativos e esportivos;Salas de jogos boliches e similares;P;A-p;P;A-pp;A-m;A;A;A;A-5-pp;P;P;A-p;A-p
+Recreativos e esportivos;Casas noturnas casas de festa danceterias salões de dança e similares;A;A;P;P;A-m;A;A;A;A-5;P;P;A;A
+Recreativos e esportivos;Clubes sociais esportivos e similares;A-m;A;A;A-p;A-m;A;A;A;A;P;P;A-m;A
+Recreativos e esportivos;Cartódromos autódromos e similares;P;A;P;P;P;P;P;A;P;P;P;P;A
+Recreativos e esportivos;Estruturas de apoio náutico;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;P;A-5;A-5;A-5;A-5
+Saúde e serviços sociais;Laboratórios e similares;P;P;A-pp;A-pp;A-m;A-m;A;A;A-5;P;P;A;P
+Saúde e serviços sociais;Ambulatórios clínicas e similares;A-p;A-p;A-pp;A-pp;A-m;A-m;A;A;A-pp;A-5-pp;P;A;A-p
+Saúde e serviços sociais;Postos de saúde;P;P;A;A;A;A;A;A;A;A;P;A;P
+Saúde e serviços sociais;Hospitais clínicas com internação pronto-atendimentos e maternidades;P;P;P;P;A;A;A;A;A-5;P;P;A;P
+Saúde e serviços sociais;Central de serviços móveis de atendimento a urgências e de remoção de pacientes;P;P;P;P;A;A;A;A;A;P;P;A;P
+Saúde e serviços sociais;Casas de reabilitação e de assistência psicossocial e psiquiátrica;A;A;A;P;A;A;A;P;P;P;P;P;A
+Saúde e serviços sociais;Albergue assistencial com alojamento instituições de acolhimento de menores e similares;A;A;A-pp;A-pp;A;A;A;A;A;A-pp;P;P;A
+Saúde e serviços sociais;Instituição de assistência a idosos e similares;A;A;A;A-p;A;A;A;P;A;A;P;P;A
+Saúde e serviços sociais;Salões de beleza spas e clínicas de estética sem alojamento e sem cirurgia;A-p;A-p;A-p;A-pp;A;A;A;A;A;A-pp;A-m;A-p;A
+Educacionais;Educação infantil - creches e pré-escolas;A;A;A;A;A;A;A;A-m;A;A;P;A;A
+Educacionais;Ensino fundamental e escolas especiais;A;A;A;A;A;A;A;A-m;A;A;P;A;A
+Educacionais;Ensino médio;A;A;A;P;A;A;A;A-m;A;A;P;A;A
+Educacionais;Ensino superior supletivos profissionalizantes educação profissional de nível técnico;A;A;P;P;A;A;A;A-g;A;A;P;A;A
+Educacionais;Cursos especiais (línguas artes gastronomia) escolas de dança preparatórios e similares;A-p;A-p;A-p;A-p;A-g;A;A;A-m;A;A-p;P;A;A-p
+Educacionais;Incubadoras tecnológicas laboratórios e centros de pesquisa;A-p;A-p;A-p;P;A-g;A-m;A;A;A;P;P;A;P
+Culturais;Salas de exposições museus galerias e bibliotecas;A-p;A;P;A-p;A;A;A;A;A;A-p;P;A;A
+Culturais;Centros culturais teatros e similares;A;A;A-p;P;A-g;A;A;A;A;P;P;A;A
+Culturais;Auditórios de múltiplo uso cinemas e similares;A-p;A-p;A-p;A-pp;A-g;A;A;A;A;P;P;A;A
+Culturais;Centro de convenções;P;P;P;P;A-m;A;A;A;A-5;P;P;A;P
+Cultos e funerários;Igrejas templos e locais de culto;A-m;A;A-m;A-m;A;A;A;A;A-5;A-p;A;A;A
+Cultos e funerários;Cemitério e centro de atendimento funeral;P;P;P;P;A;P;A;A;A-p;P;P;P;P
+Cultos e funerários;Crematório;P;P;P;P;P;P;P;A;P;P;P;P;P
+Comerciais;Comércio varejista de mercadorias em geral;A-p;A-p;A-pp;A-pp;A-g;A-g;A;A;A-pp;A-pp;P;A;A-p
+Comerciais;Lojas de departamento;P;P;P;A-p;A;A-m;A;A;A-p;P;P;P;P
+Comerciais;Comércio varejista de combustíveis para veículos automotores;P;P;P;P;A-1-2-3;A-1-2-3;A-1-2;A-1-2;A;P;P;P;P
+Comerciais;Shopping centers;P;P;P;P;P;P;A;A;A-5;P;P;P;P
+Comerciais;Comércio varejista de materiais de grande porte;P;P;P;P;A-m-3;P;A;A;P;P;P;P;P
+Comerciais;Comércio atacadista e depósito em geral;A-p;A-p;A-p;A-pp;A-m;A-p;A;A;A-5;A-6-pp;P;A-g;P
+Comerciais;Comércio atacadista e depósito de produtos perigosos (explosivos inflamáveis tóxicos corrosivos ou radioativos);P;P;P;P;P;P;A-1-2;A-1-2;P;P;P;P;P
+Comerciais;Pavilhões para feiras parques de exposição e similares;P;A;A;P;P;P;A;A;A-5;A-pp;P;A;P
+Comerciais;Condomínio comercial / de serviços;P;P;P;A;A;A;A;A;A-5;P;A-p;A;P
+Serviços;Serviços em geral;A-pp;A-pp;A-pp;A-pp;A;A;A;A;A-4-pp;A-pp;P;A;A-pp
+Serviços;Serviços de alimentação;A-m;A-m;A-p;A-pp;A;A;A;A;A;A-p;P;A;A-m
+Serviços;Atividades veterinárias;A-p;A-p;A-p;A-pp;A-m;A;A;A;A;A-4-pp;P;A;A-p
+Serviços;Serviços bancário de autoatendimento e casas lotéricas;A-pp;A-pp;App;A;A;A;A;A;A-5;A-pp;A-pp;A;A-pp
+Serviços;Serviços bancários - agências;P;P;P;P;A;A;A;A;A;P;A-pp;A;P
+Serviços;Serviços de manutenção em geral;A-p;A-p;A-pp;A-pp;A;A-m;A;A;A;A-4-pp;P;A;A-p
+Serviços;Serviços de manutenção pesada;P;P;A-6-m;P;A-m;P;A;A;P;P;P;P;P
+Serviços;Estacionamentos;A;A;A-p;A;A;A;A;A;A-5;P;A;A;A
+Serviços;Edifícios-garagem;P;P;P;P;A;P;A;A;P;P;P;A;P
+Serviços;Garagens de frotas transportadoras e terminais de cargas;P;P;P;P;P;P;A-g;A;P;P;P;P;P
+Serviços;Sedes de organizações associativas patronais empresariais profissionais e similares;A;A;P;A-pp;A;A;A;A;A;P;P;A;P
+Serviços;Sedes de organizações sindicais políticas e similares;A-pp;A-pp;P;A-pp;A-m;P;A;A;A;P;P;A;P
+Serviços;Sedes de organizações associativas de defesa de direitos sociais ambientais e similares;A;A;A-pp;A-pp;A-m;A;A;A;A;P;P;A;P
+Industriais;Indústria extrativista;P;P;P;P;P;P;P;P;P;P;P;P;""
+Industriais;Fábrica de conservas óleos e laticínios;A-p;A-p;A-6;P;A-m;A-pp;A-p;A;A-p;A-m;P;A;A-p
+Industriais;Fábrica de farinha e derivados;A-p;A-p;A-6;P;A-m;A-pp;A-p;A;A-p;A-6-m;P;A;A-p
+Industriais;Abatedouro e fábrica de produtos de carne;A-p;A-p;A-6;P;A-p;P;A-p;A;A-5-pp;A-6-pp;P;P;P
+Industriais;Fábrica de produtos do pescado;A-p;A-p;A-6;A-p;A-m;A-p;A-m;A;A-p;A-6-p;P;A;P
+Industriais;Fábrica e refino de açúcar torrefação e moagem de café;A-p;A-p;A-6;P;A-m;A-pp;A-p;A;A-p;A-6-pp;P;A;P
+Industriais;Fábrica de outros produtos alimentícios;A-p;A-p;A-6;A-p;A-m;A-p;A-m;A;A-p;A-6-p;P;A;P
+Industriais;Fábrica de bebidas;A-p;A-p;A-6;P;A-m;A-p;A-p;A;A-p;A-6-pp;P;A;A-p
+Industriais;Fábrica de produtos do fumo;P;P;P;P;P;P;P;A;P;P;P;P;P
+Industriais;Fábrica de produtos têxteis e confeccção de artigos do vestuário e acessórios;A-p;A-p;A-pp;A-pp;A-m;A-pp;A-p;A;A-p;P;P;A;A-p
+Industriais;Curtimento e outras preparações de couros;P;P;A-6-p;A-pp;A-pp;P;A-p;A-p;A-p;P;P;P;P
+Industriais;Fábrica de artefatos de couro artigos para viagem e calçados;A-p;A-p;A-pp;A-pp;A-m;A-pp;A-m;A;A-p;A-pp;P;A;A-p
+Industriais;Fábrica de produtos de madeira exceto móveis;A-p;A-p;A-p;A-pp;A-p;A-pp;A-m;A;A-p;A-6;P;A;A-p
+Industriais;Fábrica de celulose papel e produtos de papel;P;P;A-m;P;P;P;P;A;A-pp;P;P;P;P
+Industriais;Impressão e reprodução de gravações;A-p;A-p;A-pp;A-pp;A;A-m;A;A;A-p;P;P;A;A-p
+Industriais;Fábrica de coque de produtos derivados de petróleo e de biocombustíveis;P;P;P;P;P;P;P;P;P;P;P;P;P
+Industriais;Fábrica de produtos químicos;P;P;P;P;P;P;P;A-8;P;P;P;A-8;P
+Industriais;Fábrica de produtos farmoquímicos;P;P;P;P;P;P;P;A;P;P;P;A;P
+Industriais;Fábrica de produtos farmacêuticos;P;P;P;A-pp;A-m;P;A-m;A;A-5-p;P;P;A;P
+Industriais;Fábrica de produtos de borracha e de material plástico;P;P;P;P;P;P;P;A;P;P;P;A;P
+Industriais;Fábrica de produtos de minerais não-metálicos (vidro e produtos do vidro cimento artefatos de concreto);P;P;P;P;P;P;A;A;P;P;P;P;P
+Industriais;Metalurgia;P;P;P;P;P;P;P;A;P;P;P;P;P
+Industriais;Fábrica de produtos de metal exceto máquinas e equipamentos;P;P;P;P;P;P;A-1;A;P;P;P;P;P
+Industriais;Fábrica de equipamentos de informática produtos eletrônicos e ópticos;A-p;A-p;A-p;A-p;A-p;A-p;A;A;A-p;P;P;A;A-p
+Industriais;Fábrica de máquinas aparelhos e materiais elétricos;P;P;P;P;P;P;A-p;A;P;P;P;A;P
+Industriais;Fábrica de máquinas e equipamentos;P;P;P;P;P;P;A-p;A;P;P;P;A;P
+Industriais;Fábrica de veículos automotores reboques e carrocerias;P;P;P;P;P;P;P;A;P;P;P;A;P
+Industriais;Fábrica de outros equipamentos de transporte exceto veículos automotores e embarcações;P;P;P;P;P;P;P;A;P;P;P;A;P
+Industriais;Construção de embarcações;A-p;A-p;A-p;A-p;A-p;A-p;A-p;A;A-p;A-6;P;A;A-p
+Industriais;Fábrica de móveis;A-p;A-p;A-p;A-p;A-m;A-p;A-m;A;A-m;P;P;A;P
+Industriais;Fábrica de produtos diversos;A-p;A-p;A-pp;A-pp;A-p;A-p;A;A;A-p;A-pp;P;A;A-p
+Complexo de múltiplo uso;Complexo de múltiplo uso;De acordo com adequação de cada uso para o zoneamento em questão.;"";"";"";"";"";"";"";"";"";"";"";""
+Agricultura, pesca e serviços relacionados;Produção de lavouras temporárias;A;A;A;A-7;A-7;A-7;A-7;A-7;A-5-12;A-7;P;A;A
+Agricultura, pesca e serviços relacionados;Horticultura e floricultura;A;A;A;A-p;A-7;A;A;A;A;A-7;A;A;A
+Agricultura, pesca e serviços relacionados;Produção de lavouras permanentes;A;A;A;P;A-7;P;P;P;P;A-7;P;A;A
+Agricultura, pesca e serviços relacionados;Produção de sementes e mudas certificadas;A;A;A;P;A-7;P;P;P;P;A-7;P;A;A
+Agricultura, pesca e serviços relacionados;Pecuária;A-7;A-7;A-7;P;A-7;P;P;P;P;P;P;A;A
+Agricultura, pesca e serviços relacionados;"Atividades de apoio à agricultura e à pecuária; atividades de pós colheita";A-7;A;A;P;P;P;P;P;P;A-7;P;A;A
+Agricultura, pesca e serviços relacionados;Caça e serviços relacionados;P;P;P;P;P;P;P;P;P;P;P;A;A
+Agricultura, pesca e serviços relacionados;Produção florestal;A;A;A;P;P;P;P;P;P;P;P;A;A
+Agricultura, pesca e serviços relacionados;Pesca e aquicultura;A;A;A;A;A;A;A;A;A;A;A;A;A
+Equipamentos;Geração transmissão e distribuição de energia elétrica e produção e distribuição combustíveis gasosos por redes urbanas (não inclui comércio);A;A;A;A;A;A;A;A;A;A;A;A;A
+Equipamentos;Captação tratamento e distribuição de água;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5
+Equipamentos;Esgoto e atividades relacionadas;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5;A-5
+Equipamentos;Coleta tratamento e disposição de resíduos recuperação de materiais;De acordo com regulamentação espefícifa do órgão;"";"";"";"";"";"";"";"";"";"";"";""
+Equipamentos;Descontaminação e outros serviços de gestão de resíduos;P;A;P;A;A;A;A;A;A;A;A;A;A
