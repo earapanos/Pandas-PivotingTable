@@ -12,6 +12,6 @@ This process is very important to:
 * sum the items value;
 * or compute average, find minimal or maximal value etc.
 
-In this code, I will use the Pandas library to pivot a table. This is a common step that we typically need to perform in data analysis.
+<a href="https://github.com/earapanos/Pandas-PivotingTable/blob/main/pivoting-table.ipynb">Here in this code</a>, I used Pandas library to pivot a table. The objective of it was transform columns in lines <a href="https://github.com/earapanos/Pandas-PivotingTable/blob/main/tabela/zon_usos2_202311301557.csv">in this table</a> and realation it with a spatial table on database to create indicators of a specific types of buildins which are allowed do build in the determinated areas.
 
-Here is a quick explanation and a tutorial about this:
+
