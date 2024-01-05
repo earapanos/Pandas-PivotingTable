@@ -1,4 +1,4 @@
-![pivoting_table](https://github.com/earapanos/Pandas-PivotingTable/assets/52800638/1f78ca94-c2b1-4521-ad4d-aec7b2c60a3c)
+![pivoting_table (1)](https://github.com/earapanos/Pandas-PivotingTable/assets/52800638/bc416ac2-2860-41ed-9aad-f971da4ede7f)
 
 
 <h1 align="center"> 🐼 Pandas-PivotingTable </h1>
